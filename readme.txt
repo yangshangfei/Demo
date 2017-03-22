@@ -1,6 +1,4 @@
 start study git
 git is very interesting
 
-修改文件
-
-再次修改文件
+远程仓库克隆，分支合并与管理
